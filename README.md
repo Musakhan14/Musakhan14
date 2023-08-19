@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Musa Khan</h1>
 <h3 align="center">A passionate flutter developer from Pakistan</h3>
+<p align="center"> <img src="https://media.istockphoto.com/id/1137735902/vector/software-development-programming-laptop.jpg?s=612x612&w=0&k=20&c=0JmLIfnuHrmkJRhfjVq3ZSqpvqFuAVQ9-k93Su9nGTk=" alt="musakhan14" /> </p>
 
-<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="musakhan14" /> </p>
+
 
 - 🌱 I’m currently learning **Flutter**
 
